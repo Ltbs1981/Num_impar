@@ -1,0 +1,14 @@
+C:\Users\lucia\source\repos\1000Impares\bin\Debug\netcoreapp3.1\1000Impares.exe
+C:\Users\lucia\source\repos\1000Impares\bin\Debug\netcoreapp3.1\1000Impares.deps.json
+C:\Users\lucia\source\repos\1000Impares\bin\Debug\netcoreapp3.1\1000Impares.runtimeconfig.json
+C:\Users\lucia\source\repos\1000Impares\bin\Debug\netcoreapp3.1\1000Impares.runtimeconfig.dev.json
+C:\Users\lucia\source\repos\1000Impares\bin\Debug\netcoreapp3.1\1000Impares.dll
+C:\Users\lucia\source\repos\1000Impares\bin\Debug\netcoreapp3.1\1000Impares.pdb
+C:\Users\lucia\source\repos\1000Impares\obj\Debug\netcoreapp3.1\1000Impares.csproj.AssemblyReference.cache
+C:\Users\lucia\source\repos\1000Impares\obj\Debug\netcoreapp3.1\1000Impares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\source\repos\1000Impares\obj\Debug\netcoreapp3.1\1000Impares.AssemblyInfoInputs.cache
+C:\Users\lucia\source\repos\1000Impares\obj\Debug\netcoreapp3.1\1000Impares.AssemblyInfo.cs
+C:\Users\lucia\source\repos\1000Impares\obj\Debug\netcoreapp3.1\1000Impares.csproj.CoreCompileInputs.cache
+C:\Users\lucia\source\repos\1000Impares\obj\Debug\netcoreapp3.1\1000Impares.dll
+C:\Users\lucia\source\repos\1000Impares\obj\Debug\netcoreapp3.1\1000Impares.pdb
+C:\Users\lucia\source\repos\1000Impares\obj\Debug\netcoreapp3.1\1000Impares.genruntimeconfig.cache
